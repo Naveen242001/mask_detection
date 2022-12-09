@@ -14,13 +14,15 @@ Detected”.
 
 Please run requirement.txt. It would install all the requirements.
 
-## How to run
-
-### Input 
+## Input 
 
 Create videos folder and put the input video (Face_Mask.mp4) here, which you can download from "https://drive.google.com/drive/folders/1yVKIPn2pKTbssX5X68qdfzD2_swC7HTd?usp=share_link"
 
+## Model
+
 download the model (mask_detector.h5) "https://drive.google.com/drive/folders/1yVKIPn2pKTbssX5X68qdfzD2_swC7HTd?usp=share_link" and put it into models folder.
+
+## How to run
 
 run python mask_detection_video.py
 
